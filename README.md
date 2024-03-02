@@ -1,0 +1,8 @@
+- 👋 Hi, I’m "@DandyGoesCode"
+- 👀 Nice to meet you.
+- 👼 DOB: "May 28th 2005"
+- 🏠 I live in "Hanoi, Vietnam".
+- 🥰 Currently studying at: "Post and Telecommunication Institute of Technology"
+- 💞️ I made this GitHub account to upload all code exercises I did and all projects.
+- 😄 Pronouns: "He"
+- ⚡ Hobby: I often listen to music everyday, especially Indie and Pop. I also love coding too.
